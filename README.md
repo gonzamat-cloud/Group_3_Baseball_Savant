@@ -1,6 +1,6 @@
 # Group #3 - Checkpoint 1
 
-![Figure 1](images/Baseball_1.jpg)
+![Figure 1](images/Baseball_2.jpg)
 
 ## Progress on the 8 Major Tasks
 
